@@ -1,0 +1,9 @@
+Variable_name	Value
+secure_file_priv	/var/lib/mysql-files/
+num_salle	nbPlaces_salle
+1	50
+2	70
+3	250
+4	350
+5	100
+6	400
